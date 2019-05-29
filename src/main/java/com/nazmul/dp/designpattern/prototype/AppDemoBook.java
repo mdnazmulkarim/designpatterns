@@ -1,6 +1,6 @@
 package com.nazmul.dp.designpattern.prototype;
 
-public class App {
+public class AppDemoBook {
 
 	public static void main(String[] args) throws CloneNotSupportedException {
 		
